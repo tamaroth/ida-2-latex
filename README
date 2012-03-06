@@ -3,4 +3,4 @@ To build this package with visual studio, you'll need:
 - Visual Studio (obviously)
 - IDA SDK (most likely version 6 and above, I haven't tried with older versions)
 
-Boos up the solution in vs, change the paths of output directory, additional include directory and compile away!
+Boot up the solution in vs, change the paths of output directory, additional include directory and compile away!
