@@ -12,4 +12,4 @@ To build this package with visual studio, you'll need:
 * Go to Project PRoperties -> C++ -> General
   * Change **Additional Include Directories** to IDA SDK include directory
 * Go to Project Properties -> Linker -> Input
-  * Change Additional Dependencies to %IDASDK%\lib\x86_win_vc_32\ida.lib where %IDASDK% is the directory where you have your IDA SDK.
+  * Change **Additional Dependencies** to %IDASDK%\lib\x86_win_vc_32\ida.lib where %IDASDK% is the directory where you have your IDA SDK.
